@@ -1,0 +1,1 @@
+I am Rohit Kumar Singh. I have made a calcular app using HTML, CSS and Javascript.
